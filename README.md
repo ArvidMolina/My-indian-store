@@ -191,7 +191,7 @@ Congratulations! Installation is now complete.
 Log in to the PrestaShop back office by going to your newly-renamed "admin" folder, and start filling your catalog with products, adding carriers and shipping costs, adding brands and suppliers, changing the theme, and generally configuring the many settings to suit your tastes and needs.
 
 
-## License
+## Prestashop License
 
 PrestaShop is free and distributed under a certain set of open-source licenses. You simply cannot use this software if you disagree with the terms of the licenses, and this step requires you to explicitly acknowledge them.
 
@@ -203,3 +203,14 @@ Academic Free License 3.0 for the modules and themes, which you can also read at
 [Open Software License 3.0 for PrestaShop](http://www.opensource.org/licenses/OSL-3.0. )
 
 [Academic Free License 3.0 for the modules and themes](http://opensource.org/licenses/AFL-3.0)
+
+
+## Bootstrap
+	
+Bootstrap is the most popular CSS Framework for developing responsive and mobile-first websites.
+
+[Bootstrap Website](https://getbootstrap.com/)
+
+Bootstrap is released under the MIT license and is copyright 2020 Twitter. Boiled down to smaller chunks, it can be described with the following conditions.
+
+[The full Bootstrap license](https://github.com/twbs/bootstrap/blob/v4.5.0/LICENSE)
