@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/home/myindian/public_html/themes/theme_origine4/modules/posvegamenu/views/templates/admin/list.tpl" source-language="et-EE" target-language="et-EE" datatype="plaintext">
+    <body>
+      <trans-unit id="a5e99b6ec9a5c66cd5daa527719e6c2a">
+        <source>Menu List</source>
+        <target>Menu List</target>
+        <note>Line: 27</note>
+      </trans-unit>
+      <trans-unit id="4cdc1e3ac759b928e506d8c8d59662ee">
+        <source>Build SubMenu</source>
+        <target>Build SubMenu</target>
+        <note>Line: 50</note>
+      </trans-unit>
+      <trans-unit id="7dce122004969d56ae2e0245cb754d35">
+        <source>Edit</source>
+        <target>Edit</target>
+        <note>Line: 56</note>
+      </trans-unit>
+      <trans-unit id="f2a6c498fb90ee345d997f888fce3b18">
+        <source>Delete</source>
+        <target>Delete</target>
+        <note>Line: 61</note>
+      </trans-unit>
+      <trans-unit id="ab03c8973cc7a3314e8ce68b5d88bcd9">
+        <source>Add new item</source>
+        <target>Add new item</target>
+        <note>Line: 71</note>
+      </trans-unit>
+      <trans-unit id="34a658662bdb921dc61be175f651ff88">
+        <source>Menu settings</source>
+        <target>Menu settings</target>
+        <note>Line: 101</note>
+      </trans-unit>
+      <trans-unit id="5818dca11924fa5c753986344ec28d7f">
+        <source>Heading title</source>
+        <target>Heading title</target>
+        <note>Line: 104</note>
+      </trans-unit>
+      <trans-unit id="138601ff53566fa4484c49830e45f7c7">
+        <source>Background type</source>
+        <target>Background type</target>
+        <note>Line: 133</note>
+      </trans-unit>
+      <trans-unit id="368d9ac76af05f714092bc808a426bfc">
+        <source>Background color</source>
+        <target>Background color</target>
+        <note>Line: 143</note>
+      </trans-unit>
+      <trans-unit id="14048e0cc272bd8e68ceb86154de892a">
+        <source>Image source</source>
+        <target>Image source</target>
+        <note>Line: 151</note>
+      </trans-unit>
+      <trans-unit id="b51000000ff730e7cacd10980186c1a4">
+        <source>Select image</source>
+        <target>Select image</target>
+        <note>Line: 155</note>
+      </trans-unit>
+      <trans-unit id="74820d3e6fe1a586cd2600e0fcdc70bd">
+        <source>Background repeat</source>
+        <target>Background repeat</target>
+        <note>Line: 160</note>
+      </trans-unit>
+      <trans-unit id="ec0b14b1ef470b1589883e5ae7ff3994">
+        <source>Submenu animation</source>
+        <target>Submenu animation</target>
+        <note>Line: 171</note>
+      </trans-unit>
+      <trans-unit id="42e6feb7f76e910efcda54034ecc83ce">
+        <source>Custom CSS</source>
+        <target>Custom CSS</target>
+        <note>Line: 183</note>
+      </trans-unit>
+      <trans-unit id="d6c9fa2291cab8dee15d945625038293">
+        <source>Catalog number displayed</source>
+        <target>Catalog number displayed</target>
+        <note>Line: 189</note>
+      </trans-unit>
+      <trans-unit id="c9cc8cce247e49bae79f15173ce97354">
+        <source>Save</source>
+        <target>Save</target>
+        <note>Line: 196</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

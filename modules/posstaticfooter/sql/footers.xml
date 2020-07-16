@@ -1,0 +1,185 @@
+<pos_static_blocks>
+<!-- static block configuration -->
+	<block>
+		<id_posstaticblock>1</id_posstaticblock>
+		<identify>about_us</identify>
+		<hook_position>displayFooterBefore</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<is_default>0</is_default>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>2</id_posstaticblock>
+		<identify>payment_block</identify>
+		<hook_position>displayBlockFooter1</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<is_default>0</is_default>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>3</id_posstaticblock>
+		<identify>staticblock2_footer</identify>
+		<hook_position>displayBlockFooter2</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<is_default>0</is_default>
+		<showhook>1</showhook>
+	</block>
+	
+<!-- block language configuration -->	
+	<block_language>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>About Us</title>
+		<description>
+			 <![CDATA[
+				<div class="about_us footer_block">
+				<h3 class="h3">Contact info</h3>
+				<div class="phone">
+				<p class="img"><img src="/pos_origine/img/cms/img-headphone.png" alt="" class="img-responsive" /></p>
+				<div class="hotli">
+				<h4>Hotline Free 24/24:</h4>
+				<h3>(+800) 123 456 789</h3>
+				</div>
+				</div>
+				<p class="des">No2C, Ullenhall, Henley in Arden B578 5C, USA</p>
+				<p class="email">Support@Posthemes.com</p>
+				<ul class="link-follow-foter">
+				<li class="first"><a class="twitter fa fa-twitter" title="Twitter" href="https://twitter.com/posthemes"><span>twitter</span></a></li>
+				<li><a class="wifi fa fa-rss" title="Google" href="#"><span>wifi</span></a></li>
+				<li><a class="google fa fa-google-plus" title="Google" href="#"><span>google</span></a></li>
+				<li><a class="facebook fa fa-facebook" title="Facebook" href="https://www.facebook.com/posthemes"><span>facebook</span></a></li>
+				<li><a class="youtube fa fa-youtube" title="Youtube" href="https://www.youtube.com/user/posthemes"><span>youtube </span></a></li>
+				</ul>
+				</div>
+			 ]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>2</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Payment Block</title>
+		<description>
+			 <![CDATA[
+				<div class="footer-bootm">
+				<div class="container">
+				<div class="row">
+				<div class="col col-lg-6 col-md-6 col-xs-12">
+				<p>Copyright 2019 <a href="http://posthemes.com/">Posthemes</a>. All Rights Reserved</p>
+				</div>
+				<div class="col col-lg-6 col-md-6 col-xs-12">
+				<div class="payment"><a class="img1" href="#"><img src="/pos_origine/img/cms/payment.png" alt="" class="img-responsive" /></a></div>
+				</div>
+				</div>
+				</div>
+				</div>
+			 ]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>staticblock2 footer</title>
+		<description>
+			 <![CDATA[
+				<div class="st2_footer footer_block">
+				<h3 class="h3">GET THE APP</h3>
+				<p class="des">GreenLife App is now available on Google Play & App Store. Get it now.</p>
+				<div class="pay"><a class="img1" href="#"><img src="/pos_origine/img/cms/img-appstore.jpg" alt="" class="img-responsive" /></a> <a class="img2" href="#"><img src="/pos_origine/img/cms/img-googleplay.jpg" alt="" class="img-responsive img2" /></a></div>
+				</div>
+			 ]]>
+		</description>
+	</block_language>
+	
+	<block_language>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>About Us</title>
+		<description>
+			 <![CDATA[
+				<div class="about_us footer_block">
+				<h3 class="h3">Contact info</h3>
+				<div class="phone">
+				<p class="img"><img src="/pos_origine/img/cms/img-headphone.png" alt="" class="img-responsive" /></p>
+				<div class="hotli">
+				<h4>Hotline Free 24/24:</h4>
+				<h3>(+800) 123 456 789</h3>
+				</div>
+				</div>
+				<p class="des">No2C, Ullenhall, Henley in Arden B578 5C, USA</p>
+				<p class="email">Support@Posthemes.com</p>
+				<ul class="link-follow-foter">
+				<li class="first"><a class="twitter fa fa-twitter" title="Twitter" href="https://twitter.com/posthemes"><span>twitter</span></a></li>
+				<li><a class="wifi fa fa-rss" title="Google" href="#"><span>wifi</span></a></li>
+				<li><a class="google fa fa-google-plus" title="Google" href="#"><span>google</span></a></li>
+				<li><a class="facebook fa fa-facebook" title="Facebook" href="https://www.facebook.com/posthemes"><span>facebook</span></a></li>
+				<li><a class="youtube fa fa-youtube" title="Youtube" href="https://www.youtube.com/user/posthemes"><span>youtube </span></a></li>
+				</ul>
+				</div>
+			 ]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>2</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Payment Block</title>
+		<description>
+			 <![CDATA[
+				<div class="footer-bootm">
+				<div class="container">
+				<div class="row">
+				<div class="col col-lg-6 col-md-6 col-xs-12">
+				<p>Copyright 2019 <a href="http://posthemes.com/">Posthemes</a>. All Rights Reserved</p>
+				</div>
+				<div class="col col-lg-6 col-md-6 col-xs-12">
+				<div class="payment"><a class="img1" href="#"><img src="/pos_origine/img/cms/payment.png" alt="" class="img-responsive" /></a></div>
+				</div>
+				</div>
+				</div>
+				</div>
+			 ]]>
+		</description>
+	</block_language>
+	<block_language>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>staticblock2 footer</title>
+		<description>
+			 <![CDATA[
+				<div class="st2_footer footer_block">
+				<h3 class="h3">GET THE APP</h3>
+				<p class="des">GreenLife App is now available on Google Play & App Store. Get it now.</p>
+				<div class="pay"><a class="img1" href="#"><img src="/pos_origine/img/cms/img-appstore.jpg" alt="" class="img-responsive" /></a> <a class="img2" href="#"><img src="/pos_origine/img/cms/img-googleplay.jpg" alt="" class="img-responsive img2" /></a></div>
+				</div>
+			 ]]>
+		</description>
+	</block_language>
+
+
+<!-- block shop configuration -->
+	<block_shop>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>2</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+
+	
+</pos_static_blocks>

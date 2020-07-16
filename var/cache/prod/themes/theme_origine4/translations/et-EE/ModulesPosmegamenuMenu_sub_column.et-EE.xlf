@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/home/myindian/public_html/themes/theme_origine4/modules/posmegamenu/views/templates/admin/menu_sub_column.tpl" source-language="et-EE" target-language="et-EE" datatype="plaintext">
+    <body>
+      <trans-unit id="67f40f26dd920c1bc067453f268c153a">
+        <source>Column settings</source>
+        <target>Column settings</target>
+        <note>Line: 26</note>
+      </trans-unit>
+      <trans-unit id="32954654ac8fe66a1d09be19001de2d4">
+        <source>Width</source>
+        <target>Width</target>
+        <note>Line: 33</note>
+      </trans-unit>
+      <trans-unit id="5d67c7597c1003db2c47ed87738568b8">
+        <source>Column title</source>
+        <target>Column title</target>
+        <note>Line: 52</note>
+      </trans-unit>
+      <trans-unit id="62d61d24fa6a09f9a5c7c645db9314b0">
+        <source><![CDATA[>>> If use Prestashop link and want to use Prestashop title, leave it empty.]]></source>
+        <target><![CDATA[>>> If use Prestashop link and want to use Prestashop title, leave it empty.]]></target>
+        <note>Line: 78</note>
+      </trans-unit>
+      <trans-unit id="228d3085e8b4f09e3f68301a64656d59">
+        <source>Type Link</source>
+        <target>Type Link</target>
+        <note>Line: 82</note>
+      </trans-unit>
+      <trans-unit id="0da89ee79009e87aead2eb080363b016">
+        <source>PrestaShop Link</source>
+        <target>PrestaShop Link</target>
+        <note>Line: 122</note>
+      </trans-unit>
+      <trans-unit id="a8bddd1e894fd804fba86c3f1e7402d0">
+        <source>Custom Link</source>
+        <target>Custom Link</target>
+        <note>Line: 86</note>
+      </trans-unit>
+      <trans-unit id="6adf97f83acf6453d4a6a4b1070f3754">
+        <source>None</source>
+        <target>None</target>
+        <note>Line: 87</note>
+      </trans-unit>
+      <trans-unit id="a7140e841df723ac623f174ba5aa088a">
+        <source>Custom link</source>
+        <target>Custom link</target>
+        <note>Line: 93</note>
+      </trans-unit>
+      <trans-unit id="2df2870c495a44b05a67ae059cebc214">
+        <source>Specific class</source>
+        <target>Specific class</target>
+        <note>Line: 130</note>
+      </trans-unit>
+      <trans-unit id="66b7ff893822e8f721782032bfc304a1">
+        <source>Active in mobile</source>
+        <target>Active in mobile</target>
+        <note>Line: 136</note>
+      </trans-unit>
+      <trans-unit id="93cba07454f06a4a960172bbd6e2a435">
+        <source>Yes</source>
+        <target>Yes</target>
+        <note>Line: 139</note>
+      </trans-unit>
+      <trans-unit id="bafd7322c6e97d25b6299b5d6fe8920b">
+        <source>No</source>
+        <target>No</target>
+        <note>Line: 140</note>
+      </trans-unit>
+      <trans-unit id="ea4788705e6873b424c65e91c2846b19">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>Line: 148</note>
+      </trans-unit>
+      <trans-unit id="c9cc8cce247e49bae79f15173ce97354">
+        <source>Save</source>
+        <target>Save</target>
+        <note>Line: 149</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,15 @@
+{shop_url}
+
+Tervist {firstname} {lastname},
+
+Tellimus ID {order_name} - Kupongi kood loodud
+
+Meil on hea meel teatada, et seoses tellimusega number {order_name}, on teie nimele loodud sooduskupong.
+
+SOODUSKUPONG: {voucher_num} väärtusega {voucher_amount}
+
+Selle kasutamiseks, kopeerige ja kleepige see kood maksmise ajal.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

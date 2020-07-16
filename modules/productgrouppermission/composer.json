@@ -1,0 +1,19 @@
+{
+  "name": "dreipunkt/productpermission",
+  "description": "PrestaShop module Product Permission",
+  "homepage": "",
+  "license": "Non-Licence)",
+  "authors": [
+    {
+      "name": "Robert Erdmann",
+      "email": "elmag2107@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.3.2"
+  },
+  "config": {
+    "preferred-install": "dist"
+  },
+  "type": "prestashop-module"
+}

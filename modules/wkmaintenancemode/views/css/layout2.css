@@ -1,0 +1,121 @@
+/*
+*
+* 2010-2019 Webkul.
+*
+* NOTICE OF LICENSE
+*
+* All right is reserved,
+* Please go through this link for complete license : https://store.webkul.com/license.html
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade this module to newer
+* versions in the future. If you wish to customize this module for your
+* needs please refer to https://store.webkul.com/customisation-guidelines/ for more information.
+*
+*  @author    Webkul IN <support@webkul.com>
+*  @copyright 2010-2019 Webkul IN
+*  @license   https://store.webkul.com/license.html
+*/
+body{
+    font-family: 'Noto Sans', sans-serif;
+}
+.wraper{
+background-image: url(../img/symbols-banner.png);
+position: relative;
+background-repeat: round;
+    min-height: 583px;
+}
+.head-container{
+background: rgba(255,255,255,0.9);
+   height: 60px;
+   padding: 16px 20px 0;
+   width: 100%;
+}
+.head-container .logo{
+    float: left;
+}
+.content-box {
+margin:50px auto;
+}
+.headline{
+font-size: 40px;
+color: #FFFFFF;
+text-align: center;
+line-height: 60px;
+font-weight: 600;
+}
+.description-text{
+font-size: 20px;
+color: #FFFFFF;
+text-align: center;
+line-height: 35px;
+}
+.description-text img {
+    width: 100%;
+}
+.subscription-container{
+   background: #F7F7F7;
+   box-shadow: 0 0 6px 0 rgba(201,201,201,0.50);
+   padding: 50px;
+       display: flex;
+   justify-content: center;
+}
+.subscription-text{
+font-size: 16px;
+color: #333333;
+text-align: center;
+line-height: 35px;
+margin-bottom: 10px;
+}
+.notify-email{
+background: #FFFFFF;
+border: 1px solid #979797;
+height:50px;
+float:left;
+}
+.notify-button{
+background: #368DDB;
+border: 1px solid #368DDB;
+height:50px;
+font-size: 16px;
+color: #FFFFFF;
+text-align: center;
+}
+.share-box {
+   float: right;
+}
+.share-box img{
+   height: 25px;
+   width: 25px;
+}
+.alert-box {
+    margin: 0 auto;
+}
+.alert-box .alert{
+    border-radius: unset;
+    font-size: 13px;
+}
+.copy-text {
+background: #4A5055;
+min-height:45px;
+   width:100%;
+font-size: 16px;
+color: #FFFFFF;
+text-align: center;
+   padding:20px 10px;
+}
+.copy-text a{
+    color: #FFFFFF;
+}
+.timer4 .counter, .timer4 .counter-text{
+    color: #FFFFFF;
+}
+@media (max-width: 414px) {
+    .subscription-container {
+        padding: 50px 20px;
+    }
+    .timer4 .timer-circle {
+        margin: 0 1px;
+    }
+}

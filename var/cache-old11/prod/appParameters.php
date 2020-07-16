@@ -1,0 +1,25 @@
+<?php return array (
+  'parameters' => 
+  array (
+    'database_host' => 'localhost',
+    'database_port' => '3306',
+    'database_name' => 'myindian_pres577',
+    'database_user' => 'myindian_pres577',
+    'database_password' => 'sp9k!SV5-1',
+    'database_prefix' => 'psw0_',
+    'database_engine' => 'InnoDB',
+    'mailer_transport' => 'smtp',
+    'mailer_host' => '127.0.0.1',
+    'mailer_user' => NULL,
+    'mailer_password' => NULL,
+    'secret' => 'ry1rzevpscje0j1y18etoadvzpejnqraxpvdtfsklfbhg8svb2o17v3t',
+    'ps_caching' => 'CacheMemcache',
+    'ps_cache_enable' => false,
+    'ps_creation_date' => '2020-01-13',
+    'locale' => 'en-US',
+    'use_debug_toolbar' => true,
+    'cookie_key' => '8oemp6r9yfu9rrkzcwxlqvqullfey1cx3gvmxuofxgfz3w4e7vkisnfd',
+    'cookie_iv' => 'ddavjvxv',
+    'new_cookie_key' => 'def00000f23748694d374db374f24b19138895582436a09847a814d34e55aef0084819270093a5bb5e9f644d5e067e525cbb2128f8811d951efb0702c7d8c94ed9354df4',
+  ),
+);

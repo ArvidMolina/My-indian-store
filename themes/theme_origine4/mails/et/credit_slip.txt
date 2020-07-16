@@ -1,0 +1,13 @@
+{shop_url}
+
+Tervist {firstname} {lastname},
+
+Tellimus ID {order_name} - Kreeditarve
+
+Maksekviitung on loodud Teie nimele seoses tellimusega number {order_name}.
+
+Vaadake see kviitung üle ja laadige see alla meie poes, minge [Maksekviitungid]({history_url}) sekstiooni Teie kliendikontol.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

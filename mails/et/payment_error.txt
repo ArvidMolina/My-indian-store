@@ -1,0 +1,17 @@
+{shop_url}
+
+Tervist {firstname} {lastname},
+
+Tellimus ID {order_name} - Viga maksmisel
+
+Me saatusime vea otsa töödeldes teie makset tellimuse number {order_name} eest {shop_name} poest. Palun võtke meiega ühendust niipea kui võimalik.
+
+Te saate oodata tarnet niipea kui makse on läbiviidud.
+
+Jälgige oma tellimust ja laadige kviitung alla meie poes, minge [Tellimuste ajalugu ja detailid]({history_url}) sekstiooni Teie kliendikontol.
+
+Kui Teil ei ole meie poes püsikliendi kontot ja sooritasite ostu külalisena, siis saate oma tellimust järgida ["Külaliste tellimuste"]({guest_tracking_url}) sektsioonist meie poes.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

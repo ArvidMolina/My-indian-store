@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/home/myindian/public_html/themes/theme_origine4/modules/posvegamenu/views/templates/admin/menu_sub_item.tpl" source-language="et-EE" target-language="et-EE" datatype="plaintext">
+    <body>
+      <trans-unit id="c587124fe1c2fc94b94990f3f2f881e5">
+        <source>Submenu item configuration</source>
+        <target>Submenu item configuration</target>
+        <note>Line: 26</note>
+      </trans-unit>
+      <trans-unit id="f5aabf56fb4aa6b16da34f62ffc66136">
+        <source>Type Item</source>
+        <target>Type Item</target>
+        <note>Line: 33</note>
+      </trans-unit>
+      <trans-unit id="98f451668c1ef050b418be7c9f2cb203">
+        <source>Category tree</source>
+        <target>Category tree</target>
+        <note>Line: 36</note>
+      </trans-unit>
+      <trans-unit id="0da89ee79009e87aead2eb080363b016">
+        <source>PrestaShop Link</source>
+        <target>PrestaShop Link</target>
+        <note>Line: 37</note>
+      </trans-unit>
+      <trans-unit id="a8bddd1e894fd804fba86c3f1e7402d0">
+        <source>Custom Link</source>
+        <target>Custom Link</target>
+        <note>Line: 38</note>
+      </trans-unit>
+      <trans-unit id="deb10517653c255364175796ace3553f">
+        <source>Product</source>
+        <target>Product</target>
+        <note>Line: 122</note>
+      </trans-unit>
+      <trans-unit id="137d2d6f01b4762e90938fbe1c053a74">
+        <source>Banner image</source>
+        <target>Banner image</target>
+        <note>Line: 40</note>
+      </trans-unit>
+      <trans-unit id="bf0c66e40616e033f63d0153ad48b256">
+        <source>HTML Block</source>
+        <target>HTML Block</target>
+        <note>Line: 41</note>
+      </trans-unit>
+      <trans-unit id="1ea85216d3b2a96757fedc925c8e22bb">
+        <source>Manufacturer logo</source>
+        <target>Manufacturer logo</target>
+        <note>Line: 42</note>
+      </trans-unit>
+      <trans-unit id="b02d8b2c78dfd6cc791eff6f283e5008">
+        <source>Select a category</source>
+        <target>Select a category</target>
+        <note>Line: 47</note>
+      </trans-unit>
+      <trans-unit id="4373ea3310e649d5621a403e67217844">
+        <source>Prestashop link</source>
+        <target>Prestashop link</target>
+        <note>Line: 55</note>
+      </trans-unit>
+      <trans-unit id="b78a3223503896721cca1303f776159b">
+        <source>Title</source>
+        <target>Title</target>
+        <note>Line: 63</note>
+      </trans-unit>
+      <trans-unit id="e6b391a8d2c4d45902a23a8b6585703d">
+        <source>URL</source>
+        <target>URL</target>
+        <note>Line: 93</note>
+      </trans-unit>
+      <trans-unit id="c5f17f7ca53d9225478fdbfd0a5583ac">
+        <source>Search a product</source>
+        <target>Search a product</target>
+        <note>Line: 124</note>
+      </trans-unit>
+      <trans-unit id="6e31429bb15b26679680f1da68defb3c">
+        <source>Select manufacturer</source>
+        <target>Select manufacturer</target>
+        <note>Line: 130</note>
+      </trans-unit>
+      <trans-unit id="eb6a2e9f2c6350d5cd5ef364e8076218">
+        <source>HTML content</source>
+        <target>HTML content</target>
+        <note>Line: 138</note>
+      </trans-unit>
+      <trans-unit id="14048e0cc272bd8e68ceb86154de892a">
+        <source>Image source</source>
+        <target>Image source</target>
+        <note>Line: 169</note>
+      </trans-unit>
+      <trans-unit id="9ce38727cff004a058021a6c7351a74a">
+        <source>Image link</source>
+        <target>Image link</target>
+        <note>Line: 200</note>
+      </trans-unit>
+      <trans-unit id="66b7ff893822e8f721782032bfc304a1">
+        <source>Active in mobile</source>
+        <target>Active in mobile</target>
+        <note>Line: 229</note>
+      </trans-unit>
+      <trans-unit id="93cba07454f06a4a960172bbd6e2a435">
+        <source>Yes</source>
+        <target>Yes</target>
+        <note>Line: 232</note>
+      </trans-unit>
+      <trans-unit id="bafd7322c6e97d25b6299b5d6fe8920b">
+        <source>No</source>
+        <target>No</target>
+        <note>Line: 233</note>
+      </trans-unit>
+      <trans-unit id="ea4788705e6873b424c65e91c2846b19">
+        <source>Cancel</source>
+        <target>Cancel</target>
+        <note>Line: 241</note>
+      </trans-unit>
+      <trans-unit id="c9cc8cce247e49bae79f15173ce97354">
+        <source>Save</source>
+        <target>Save</target>
+        <note>Line: 242</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

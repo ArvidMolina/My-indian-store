@@ -1,0 +1,12 @@
+Bonjour,
+
+Le client {firstname} {lastname} souhaiterait intégrer votre espace professionnel. 
+
+ADRESSE E-MAIL : {email}
+SOCIETE : {company}
+SIRET SOCIETE : {siret}
+
+{address}
+
+Ce mail est envoyé à titre indicatif. 
+Vous devez procéder au changement de groupe du client manuellement.

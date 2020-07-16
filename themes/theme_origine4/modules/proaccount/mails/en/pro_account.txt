@@ -1,0 +1,13 @@
+
+Hi,
+
+Customer {firstname} {lastname} would like to register in your professional environment.
+
+ADRESSE E-MAIL : {email}
+SOCIETE : {company}
+SIRET SOCIETE : {siret}
+
+{address}
+
+This mail is sent to indication.
+You have to change the customer group manually.

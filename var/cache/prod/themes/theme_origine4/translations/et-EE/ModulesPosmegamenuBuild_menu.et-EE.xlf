@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/home/myindian/public_html/themes/theme_origine4/modules/posmegamenu/views/templates/admin/build_menu.tpl" source-language="et-EE" target-language="et-EE" datatype="plaintext">
+    <body>
+      <trans-unit id="e0d2f7838eebffb9aa11cdb87fad2b75">
+        <source>Submenu content</source>
+        <target>Submenu content</target>
+        <note>Line: 27</note>
+      </trans-unit>
+      <trans-unit id="a70367aa7cb74e510f4f9413ccf059d3">
+        <source>Row</source>
+        <target>Row</target>
+        <note>Line: 38</note>
+      </trans-unit>
+      <trans-unit id="f2a6c498fb90ee345d997f888fce3b18">
+        <source>Delete</source>
+        <target>Delete</target>
+        <note>Line: 39</note>
+      </trans-unit>
+      <trans-unit id="7dce122004969d56ae2e0245cb754d35">
+        <source>Edit</source>
+        <target>Edit</target>
+        <note>Line: 42</note>
+      </trans-unit>
+      <trans-unit id="4dbab9feedb1a717f2c0879932c4db10">
+        <source>Add Column</source>
+        <target>Add Column</target>
+        <note>Line: 51</note>
+      </trans-unit>
+      <trans-unit id="bae5906bfb7292324d4893e26a68b23e">
+        <source>Delete Colum</source>
+        <target>Delete Colum</target>
+        <note>Line: 61</note>
+      </trans-unit>
+      <trans-unit id="23bd150cc37fb504a0ced157e441cfda">
+        <source>Edit Column</source>
+        <target>Edit Column</target>
+        <note>Line: 66</note>
+      </trans-unit>
+      <trans-unit id="20771f8851efd2ac7510f7ecba19bec6">
+        <source>Add new Item</source>
+        <target>Add new Item</target>
+        <note>Line: 71</note>
+      </trans-unit>
+      <trans-unit id="95a480afa92aff31772402b042f11491">
+        <source>Edit Item</source>
+        <target>Edit Item</target>
+        <note>Line: 86</note>
+      </trans-unit>
+      <trans-unit id="499824e5fde79fb2a8b57f602fac72c4">
+        <source>delete Item</source>
+        <target>delete Item</target>
+        <note>Line: 89</note>
+      </trans-unit>
+      <trans-unit id="91a9284418a5eb82671d844e6615d2b5">
+        <source>Item saved</source>
+        <target>Item saved</target>
+        <note>Line: 122</note>
+      </trans-unit>
+      <trans-unit id="f6fefe344352f0815e6f53ad8f97ae76">
+        <source>Item deleted</source>
+        <target>Item deleted</target>
+        <note>Line: 123</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

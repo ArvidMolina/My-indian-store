@@ -1,0 +1,8 @@
+[{shop_url}] 
+
+HELLO
+
+Account information from {shop_name}
+
+A new customer with e-mail {email} has registerd on your shop
+[{shop_url}] 

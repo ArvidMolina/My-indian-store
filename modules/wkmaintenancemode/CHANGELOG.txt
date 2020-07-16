@@ -1,0 +1,36 @@
+-----------------------------------------------------------------
+Change Log : V5.0.0 To V5.0.1 | COMPATIBLE:: PRESTASHOP V1.7
+-----------------------------------------------------------------
+
+## Update Policy:
+    - Update only zip file of module new version
+
+Fixed Bug:
+- If I change the name of php file from script.php to script.jpg, I can upload this script.jpg easily.
+- Translation issues.
+- After time is being expired, when user will disable the module through general settings - Module will not disable.
+- After resetting the module, old uploaded image is still appearing.
+- Text color should be set as default i.e. Black along with number.
+- Height and width should not be inappropriate.
+- Console should be clear, no running requests should be shown in console.
+- Gap of time is more in fourth layout when compared to all three layouts.
+- Issue at front-end, when user enter script in footer text box.
+- Unable to upload image at layout tab.
+- After lapse timer is not visible when user refresh the page.
+- Issue when user enter email and clicks on Newsletter, an error is arising.
+- Layouts are not visible at configuration page when cache APC is on.
+- Countdown timer not visible at back-end at configurations tabs when cache APC is on.
+
+-----------------------------------------------------------------
+Change Log : V5.0.0 | COMPATIBLE:: PRESTASHOP V1.7
+-----------------------------------------------------------------
+
+Features:
+- Add a customizable maintenance page to your store and let the customers know that your store is currently under maintenance.
+- Configure the text to be displayed on the maintenance page.
+- Display newsletter subscription form on maintenance page.
+- Multiple page layouts for maintenance mode to choose from.
+- Option to add a customized background image on the maintenance page.
+- A countdown timer to display the exact date and time after which the shop gets activated.
+- Multiple countdown timer layouts for the maintenance page.
+- Add social icons on the maintenance page. 

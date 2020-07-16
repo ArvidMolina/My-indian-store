@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/home/myindian/public_html/themes/theme_origine4/modules/poslistcategories/views/templates/hook/list.tpl" source-language="et-EE" target-language="et-EE" datatype="plaintext">
+    <body>
+      <trans-unit id="814196c32531e51656e1acc11ffaca27">
+        <source>Items list</source>
+        <target>Items list</target>
+        <note>Line: 25</note>
+      </trans-unit>
+      <trans-unit id="7dce122004969d56ae2e0245cb754d35">
+        <source>Edit</source>
+        <target>Edit</target>
+        <note>Line: 56</note>
+      </trans-unit>
+      <trans-unit id="f2a6c498fb90ee345d997f888fce3b18">
+        <source>Delete</source>
+        <target>Delete</target>
+        <note>Line: 61</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

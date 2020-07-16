@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/home/myindian/public_html/themes/theme_origine4/modules/xipblogdisplayposts/views/templates/front/xipblogdisplayposts.tpl" source-language="et-EE" target-language="et-EE" datatype="plaintext">
+    <body>
+      <trans-unit id="7801a2d33f183588a93f311b720589a4">
+        <source>Post by : </source>
+        <target>Post by : </target>
+        <note>Line: 58</note>
+      </trans-unit>
+      <trans-unit id="f4a8e5c0f929e7a84ce2971cae1b4d48">
+        <source>posthemes</source>
+        <target>posthemes</target>
+        <note>Line: 59</note>
+      </trans-unit>
+      <trans-unit id="f75dc202ddb3640cc8a3c64ab16aa536">
+        <source>Continue Reading </source>
+        <target>Continue Reading </target>
+        <note>Line: 69</note>
+      </trans-unit>
+      <trans-unit id="187b60ac731adde874b77f25f22f5df3">
+        <source>No Blog Post Found</source>
+        <target>No Blog Post Found</target>
+        <note>Line: 81</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

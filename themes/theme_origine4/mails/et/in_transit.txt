@@ -1,0 +1,19 @@
+{shop_url}
+
+Tervist {firstname} {lastname},
+
+{meta_products}
+
+Tellimus ID {order_name} - On saadetud
+
+Teie tellimus {order_name} on praegu teel.
+
+Võite jälgida oma saadetist kasutades järgnevat linki: {followup}
+
+Jälgige oma tellimust ja laadige kviitung alla meie poes, minge [Tellimuste ajalugu ja detailid]({history_url}) sekstiooni Teie kliendikontol.
+
+Kui Teil ei ole meie poes püsikliendi kontot ja sooritasite ostu külalisena, siis saate oma tellimust järgida ["Külaliste tellimuste"]({guest_tracking_url}) sektsioonist meie poes.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

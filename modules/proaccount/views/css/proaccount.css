@@ -1,0 +1,44 @@
+/**
+  * 2015 DMConcept 
+  * 
+  * Proaccount Front Office Feature
+  *
+  * @authors DMConcept.fr <support@dmconcept.fr>
+  * @copyright DMConcept 2015
+  * +
+  * +Languages: EN, FR
+  * +PS version: 1.6
+  **/
+
+.header_proaccount {
+    float: right;
+    border-left: 1px solid #515151;
+    border-right: 1px solid #515151;
+}
+
+.header_proaccount a,
+.header_proaccount button.btn.btn-link {
+    color: #fff;
+    font-weight: bold;
+    display: block;
+    padding: 8px 10px 11px;
+    cursor: pointer;
+    line-height: 18px;
+}
+
+.header_proaccount button.btn.btn-link {
+    padding: 7px 11px 9px;
+}
+
+@media (max-width: 479px) {
+    .header_proaccount a,
+    .header_proaccount button.btn.btn-link {
+        font-size: 11px;
+    }
+}
+
+.header_proaccount a:hover, .header_proaccount a.active,
+.header_proaccount button.btn.btn-link:hover, .header_proaccount button.btn.btn-link.active {
+    background: #2b2b2b;
+    text-decoration: none;
+}

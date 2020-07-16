@@ -1,0 +1,32 @@
+.error_message {
+    color: red !important;
+}
+
+.error_message1 {
+    color: red !important;
+}
+
+.error_field {
+    border: 1px solid red !important;
+}
+
+.kbcustomfieldblock {
+    border: 1px solid red;
+}
+
+.page-subheading {
+    border-bottom: 1px solid #a9a9a9;
+    margin-left: 2px;
+    margin-right: 2px;
+    text-transform: uppercase;
+    color: #414141;
+    padding: 8px;
+}
+
+label.required:before {
+    content: "*";
+    color: red;
+    font-size: 14px;
+    position: relative;
+    line-height: 12px;
+}

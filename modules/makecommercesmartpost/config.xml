@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>makecommercesmartpost</name>
+	<displayName><![CDATA[SmartPost parcel terminals]]></displayName>
+	<version><![CDATA[3.1.0]]></version>
+	<description><![CDATA[Creates carrier that can be further configured under MakeCommerce module settings]]></description>
+	<author><![CDATA[MakeCommerce.net (Maksekeskus AS)]]></author>
+	<tab><![CDATA[shipping_logistics]]></tab>
+	<is_configurable>0</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>

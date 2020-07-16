@@ -1,0 +1,27 @@
+{shop_url}
+
+Tervist {firstname} {lastname},
+
+Täname, et lõite püsikliendi konto {shop_name} poodi.
+
+Teie sisselogimise detailid {shop_name}-s
+
+Siin on Teie konto andmed:
+
+E-posti aadress: {email}
+
+Oluline turvalisuse alane nõuanne:
+
+1. Hoidke alati oma konto andmeid turvalises kohas.
+
+2. Ärge jagage oma konto andmeid teistele.
+
+3. Muudke oma salasõna regulaarselt.
+
+4. Kui kahtlustate, et keegi on Teie kontot ebaseaduslikult kasutanud, siis andke sellest meile kohe teada.
+
+Võite nüüd esitada tellimusi meie poes: [{shop_name}]({shop_url})
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

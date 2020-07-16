@@ -1,0 +1,177 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/home/myindian/public_html/themes/theme_origine4/modules/posvegamenu/views/templates/admin/menu_item.tpl" source-language="et-EE" target-language="et-EE" datatype="plaintext">
+    <body>
+      <trans-unit id="87fb13ce6d2e3e222d3c4f3ff30fa0a1">
+        <source>Menu Item</source>
+        <target>Menu Item</target>
+        <note>Line: 27</note>
+      </trans-unit>
+      <trans-unit id="b78a3223503896721cca1303f776159b">
+        <source>Title</source>
+        <target>Title</target>
+        <note>Line: 30</note>
+      </trans-unit>
+      <trans-unit id="62d61d24fa6a09f9a5c7c645db9314b0">
+        <source><![CDATA[>>> If use Prestashop link and want to use Prestashop title, leave it empty.]]></source>
+        <target><![CDATA[>>> If use Prestashop link and want to use Prestashop title, leave it empty.]]></target>
+        <note>Line: 56</note>
+      </trans-unit>
+      <trans-unit id="228d3085e8b4f09e3f68301a64656d59">
+        <source>Type Link</source>
+        <target>Type Link</target>
+        <note>Line: 60</note>
+      </trans-unit>
+      <trans-unit id="0da89ee79009e87aead2eb080363b016">
+        <source>PrestaShop Link</source>
+        <target>PrestaShop Link</target>
+        <note>Line: 100</note>
+      </trans-unit>
+      <trans-unit id="a8bddd1e894fd804fba86c3f1e7402d0">
+        <source>Custom Link</source>
+        <target>Custom Link</target>
+        <note>Line: 64</note>
+      </trans-unit>
+      <trans-unit id="6adf97f83acf6453d4a6a4b1070f3754">
+        <source>None</source>
+        <target>None</target>
+        <note>Line: 302</note>
+      </trans-unit>
+      <trans-unit id="a7140e841df723ac623f174ba5aa088a">
+        <source>Custom link</source>
+        <target>Custom link</target>
+        <note>Line: 71</note>
+      </trans-unit>
+      <trans-unit id="ae1ca42050a83e3f088db858148cba66">
+        <source>Sub Title</source>
+        <target>Sub Title</target>
+        <note>Line: 113</note>
+      </trans-unit>
+      <trans-unit id="bc7e773b551c961da591dd45cd0efe80">
+        <source>Use icon</source>
+        <target>Use icon</target>
+        <note>Line: 142</note>
+      </trans-unit>
+      <trans-unit id="bafd7322c6e97d25b6299b5d6fe8920b">
+        <source>No</source>
+        <target>No</target>
+        <note>Line: 145</note>
+      </trans-unit>
+      <trans-unit id="13f4586cfec9eaf06057d02c2038ffc1">
+        <source>Font-Awesome Icon</source>
+        <target>Font-Awesome Icon</target>
+        <note>Line: 153</note>
+      </trans-unit>
+      <trans-unit id="2f6623b19457ad3aac85cf108d8634dd">
+        <source>Image Icon</source>
+        <target>Image Icon</target>
+        <note>Line: 160</note>
+      </trans-unit>
+      <trans-unit id="d1fecf249376ef459f3c65c52dc1445a">
+        <source>Put class icon of Font-Awesome at :</source>
+        <target>Put class icon of Font-Awesome at :</target>
+        <note>Line: 156</note>
+      </trans-unit>
+      <trans-unit id="b51000000ff730e7cacd10980186c1a4">
+        <source>Select image</source>
+        <target>Select image</target>
+        <note>Line: 164</note>
+      </trans-unit>
+      <trans-unit id="4f0d5f1f63014d34a61ac92a56a70b8a">
+        <source>Main link style</source>
+        <target>Main link style</target>
+        <note>Line: 172</note>
+      </trans-unit>
+      <trans-unit id="cb5feb1b7314637725a2e73bdc9f7295">
+        <source>Color</source>
+        <target>Color</target>
+        <note>Line: 250</note>
+      </trans-unit>
+      <trans-unit id="04893d0b051835db989645eabed0737e">
+        <source>Color hover</source>
+        <target>Color hover</target>
+        <note>Line: 185</note>
+      </trans-unit>
+      <trans-unit id="c4943062b634c56348c67fdebba808eb">
+        <source>Font size</source>
+        <target>Font size</target>
+        <note>Line: 266</note>
+      </trans-unit>
+      <trans-unit id="153ad58f26c6f1cc1ef7d6851c4d9c91">
+        <source>Line height</source>
+        <target>Line height</target>
+        <note>Line: 275</note>
+      </trans-unit>
+      <trans-unit id="3519bef066befd3d6488344798511dac">
+        <source>Text transform</source>
+        <target>Text transform</target>
+        <note>Line: 284</note>
+      </trans-unit>
+      <trans-unit id="334c4a4c42fdb79d7ebc3e73b517e6f8">
+        <source>none</source>
+        <target>none</target>
+        <note>Line: 287</note>
+      </trans-unit>
+      <trans-unit id="6e5f5bbf51336918feac69b89e96f6e7">
+        <source>UPPERCASE</source>
+        <target>UPPERCASE</target>
+        <note>Line: 288</note>
+      </trans-unit>
+      <trans-unit id="97a62b5e6d3cae255036b6bc37b87b44">
+        <source>Capitalize</source>
+        <target>Capitalize</target>
+        <note>Line: 289</note>
+      </trans-unit>
+      <trans-unit id="368d9ac76af05f714092bc808a426bfc">
+        <source>Background color</source>
+        <target>Background color</target>
+        <note>Line: 258</note>
+      </trans-unit>
+      <trans-unit id="3d79fb039236f3a1e8e45f1625f80aaf">
+        <source>Background hover</source>
+        <target>Background hover</target>
+        <note>Line: 230</note>
+      </trans-unit>
+      <trans-unit id="aec453e29262cc0478b48d668f4efe77">
+        <source>Subtitle style</source>
+        <target>Subtitle style</target>
+        <note>Line: 245</note>
+      </trans-unit>
+      <trans-unit id="b2550960ca4b4f608c0721a22d046311">
+        <source>Submenu type</source>
+        <target>Submenu type</target>
+        <note>Line: 297</note>
+      </trans-unit>
+      <trans-unit id="fde5020a5a97322bf5a7aee8174abbd8">
+        <source>Mega</source>
+        <target>Mega</target>
+        <note>Line: 300</note>
+      </trans-unit>
+      <trans-unit id="2896562fb4dc195047e6106cb5451998">
+        <source>Flyout</source>
+        <target>Flyout</target>
+        <note>Line: 301</note>
+      </trans-unit>
+      <trans-unit id="9111dd77d56ed38f1ed5083457b20b72">
+        <source>Flyout only is available when you select category in Type Link</source>
+        <target>Flyout only is available when you select category in Type Link</target>
+        <note>Line: 304</note>
+      </trans-unit>
+      <trans-unit id="4a769b9e560c7d8efed9e3009af2b6cb">
+        <source>Add specific class</source>
+        <target>Add specific class</target>
+        <note>Line: 308</note>
+      </trans-unit>
+      <trans-unit id="e5dc8e5afea0a065948622039358de37">
+        <source>New window</source>
+        <target>New window</target>
+        <note>Line: 314</note>
+      </trans-unit>
+      <trans-unit id="4d3d769b812b6faa6b76e1a8abaece2d">
+        <source>Active</source>
+        <target>Active</target>
+        <note>Line: 326</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

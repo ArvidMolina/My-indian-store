@@ -1,0 +1,17 @@
+{shop_url}
+
+Tervist {firstname} {lastname},
+
+Teie sõnum on edukalt saadetud, täname Teid pühendatud aja eest!
+
+Tellimuse ID #:  {order_name}
+
+Toode:  {product_name}
+
+Lisatud fail: {attached_file}
+
+Vastame Teile esimesel võimalusel.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

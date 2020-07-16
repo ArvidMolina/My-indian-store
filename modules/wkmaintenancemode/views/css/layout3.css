@@ -1,0 +1,163 @@
+/*
+*
+* 2010-2019 Webkul.
+*
+* NOTICE OF LICENSE
+*
+* All right is reserved,
+* Please go through this link for complete license : https://store.webkul.com/license.html
+*
+* DISCLAIMER
+*
+* Do not edit or add to this file if you wish to upgrade this module to newer
+* versions in the future. If you wish to customize this module for your
+* needs please refer to https://store.webkul.com/customisation-guidelines/ for more information.
+*
+*  @author    Webkul IN <support@webkul.com>
+*  @copyright 2010-2019 Webkul IN
+*  @license   https://store.webkul.com/license.html
+*/
+
+body{
+    font-family: 'Noto Sans', sans-serif;
+    background: #FFFFFF;
+}
+.wraper{
+min-height: 878px;
+background: url(../img/symbols-banner-1.png) 0% 0% / cover no-repeat;
+display: flow-root;
+}
+.right-container{
+   background: #fff;
+   padding: 0;
+   float:right;
+   height:-webkit-fill-available;
+   display: table;
+   padding-bottom: 80px;
+}
+.head-container{
+box-shadow: 0 0 6px 0 rgba(154,154,154,0.50);
+   height: 60px;
+   padding: 16px 20px 0;
+   width: 100%;
+}
+.head-container .logo{
+    float: left;
+}
+.content-box {
+margin:50px auto;
+}
+.headline{
+font-size: 40px;
+color: #4A4A4A;
+text-align: center;
+line-height: 60px;
+font-weight: 600;
+}
+.description-text{
+font-size: 20px;
+color: #555555;
+text-align: center;
+line-height: 35px;
+margin-top: 30px;
+padding: 0px 30px;
+display: inline-block;
+}
+.description-text img {
+    width: 100%;
+}
+.subscription-container{
+
+   padding: 10px;
+}
+.subscription-text{
+font-size: 16px;
+color: #333333;
+text-align: center;
+line-height: 35px;
+margin-bottom: 10px;
+
+}
+.notify-email{
+background: #FFFFFF;
+border: 1px solid #979797;
+height:70px;
+float:left;
+}
+.notify-button{
+background: #368DDB;
+border: 1px solid #368DDB;
+height:70px;
+font-size: 16px;
+color: #FFFFFF;
+text-align: center;
+}
+.share-box {
+   float: right;
+}
+.share-box img{
+   height: 25px;
+   width: 25px;
+}
+.copy-text {
+background: #4A5055;
+min-height: 65px;
+width:100%;
+font-size: 16px;
+color: #FFFFFF;
+text-align: center;
+padding:20px;
+}
+.copy-text a{
+    color: #FFFFFF;
+}
+.alert-box {
+    margin: 0 auto;
+}
+.alert-box .alert{
+    border-radius: unset;
+    font-size: 13px;
+}
+.timer3{
+    background-color: rgba(0, 0, 0, 0.15) !important;
+}
+.timer3 .counter-text, .timer3 .seperator, .timer1 .seperator, .timer1 .counter-text, .timer4 .counter-text{
+    color: #555555;
+}
+.timer1 .counter{
+    color: #FFFFFF !important;
+    background: #4C78E3 !important;
+}
+.timer2 .counter, .timer2 .seperator, .timer2 .counter-text{
+   /* color: #4C78E3 !important; */
+}
+.timer2 #countdown-progress-label{
+    background: #4C78E3 !important
+}
+.timer2 .countdown__background{
+    stroke: #DDDDDD !important;
+}
+footer {
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+@media (max-width: 767px) {
+    .right-container{
+        background: transparent;
+    }
+    .headline, .description-text, .subscription-text {
+        color: #fff;
+    }
+    .wraper {
+        background-size: cover !important;
+    }
+    .timer3 .counter-text, .timer3 .seperator, .timer1 .seperator, .timer1 .counter-text, .timer4 .counter-text{
+        color: #fff;
+    }
+}
+@media (max-width: 414px) {
+    .timer4 .timer-circle {
+        margin: 0 1px;
+    }
+}

@@ -1,0 +1,8 @@
+.icon-AdminRegistration:before {
+  content: "\f022";
+}
+
+#form-customer .col-lg-12 {
+    width: auto!important;
+    min-width: 100%;
+}

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" version="1.2">
+  <file original="/home/myindian/public_html/themes/theme_origine4/modules/poslogo/views/templates/admin/helpers/uploader/simple.tpl" source-language="et-EE" target-language="et-EE" datatype="plaintext">
+    <body>
+      <trans-unit id="1908624a0bca678cd26b99bfd405324e">
+        <source>File size</source>
+        <target></target>
+        <note>Line: 39</note>
+      </trans-unit>
+      <trans-unit id="f2a6c498fb90ee345d997f888fce3b18">
+        <source>Delete</source>
+        <target></target>
+        <note>Line: 43</note>
+      </trans-unit>
+      <trans-unit id="3fcbe6bd34e9279ec2c7b13adf7e4095">
+        <source>You have reached the limit (%s) of files to upload, please remove files to continue uploading</source>
+        <target></target>
+        <note>Line: 56</note>
+      </trans-unit>
+      <trans-unit id="d39ec66f08507e26fe86aa5325d070df">
+        <source>Add files</source>
+        <target></target>
+        <note>Line: 67</note>
+      </trans-unit>
+      <trans-unit id="58be4de806253a6ee411b6c0c99296c7">
+        <source>Add file</source>
+        <target></target>
+        <note>Line: 67</note>
+      </trans-unit>
+      <trans-unit id="09942cec33b5becdf3e2275913b818e2">
+        <source>Download current file (%skb)</source>
+        <target></target>
+        <note>Line: 73</note>
+      </trans-unit>
+      <trans-unit id="c2299e6abb73991105dfacfb6fdd6dd4">
+        <source>Download current file</source>
+        <target></target>
+        <note>Line: 73</note>
+      </trans-unit>
+      <trans-unit id="588ad835225bf5e321df58728b69de14">
+        <source><![CDATA[printf('You can upload a maximum of %s files',$_smarty_tpl->tpl_vars['max_files']->value]]></source>
+        <target><![CDATA[printf('You can upload a maximum of %s files',$_smarty_tpl->tpl_vars['max_files']->value]]></target>
+        <note>Line: 136</note>
+      </trans-unit>
+    </body>
+  </file>
+  <file original="/home/myindian/public_html/themes/theme_origine4/modules/postabcateslider/views/templates/hook/categories-tree.tpl" source-language="et-EE" target-language="et-EE" datatype="plaintext">
+    <body>
+      <trans-unit id="99078a8f3786817fbaa593c08ff04a5d">
+        <source>Select categories</source>
+        <target>Select categories</target>
+        <note>Line: 5</note>
+      </trans-unit>
+      <trans-unit id="c9cc8cce247e49bae79f15173ce97354">
+        <source>Save</source>
+        <target></target>
+        <note>Line: 13</note>
+      </trans-unit>
+    </body>
+  </file>
+</xliff>

@@ -1,0 +1,27 @@
+{shop_url}
+
+Tervist {firstname} {lastname},
+
+Täname Teid ostu eest {shop_name} poest!
+
+Tellimus ID {order_name} - Ootame maksmist tšekki kaudu
+
+Teie tellimus {order_name} on edukalt vastu võetud ja saadetakse välja, kui makse on laekunud..
+
+Makseviis: tšekk
+
+Valisite makseviisiks panga tšekki. Siin on info, mida vajad tšekki tegemiseks:
+
+Summa:  {total_paid}
+
+Tellimuse eest:  {check_name}
+
+Palun saatke tšekk järgmisele aadressile:  {check_address_html}
+
+Jälgige oma tellimust ja laadige kviitung alla meie poes, minge [Tellimuste ajalugu ja detailid]({history_url}) sekstiooni Teie kliendikontol.
+
+Kui Teil ei ole meie poes püsikliendi kontot ja sooritasite ostu külalisena, siis saate oma tellimust järgida ["Külaliste tellimuste"]({guest_tracking_url}) sektsioonist meie poes.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

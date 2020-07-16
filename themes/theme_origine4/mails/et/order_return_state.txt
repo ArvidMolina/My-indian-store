@@ -1,0 +1,13 @@
+{shop_url}
+
+Tervist {firstname} {lastname},
+
+Tagastuse #{id_order_return} - uuendus
+
+Uuendasime Teie toote tagastuse #{id_order_return}, staatust, suus staatus on: "{state_order_return}".
+
+Jälgige oma tellimust ja laadige kviitung alla meie poes, minge [Tellimuste ajalugu ja detailid]({history_url}) sekstiooni Teie kliendikontol.
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

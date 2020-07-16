@@ -1,0 +1,51 @@
+/**
+  * 2015 DMConcept 
+  * 
+  * Proaccount Front Office Feature
+  *
+  * @authors DMConcept.fr <support@dmconcept.fr>
+  * @copyright DMConcept 2015
+  * +
+  * +Languages: EN, FR
+  * +PS version: 1.7
+  **/
+
+.header_proaccount {
+    float: right;
+    margin-left: 1rem;
+    margin-right: 1rem;
+    margin-top: .9375rem;
+    text-align: right;
+    white-space: nowrap;
+    cursor: pointer;
+}
+
+.header_proaccount a,
+.header_proaccount button.btn.btn-link {
+    color: #414141;
+    display: block;
+}
+
+@media (max-width: 479px) {
+    .header_proaccount a,
+    .header_proaccount button.btn.btn-link {
+        font-size: 11px;
+    }
+}
+
+@media (max-width: 767px) {
+    .header_proaccount {
+        margin-right: 0.75rem;
+        margin-left: 0.75rem;
+    }
+}
+
+.header_proaccount a:hover, .header_proaccount a.active,
+.header_proaccount button.btn.btn-link:hover, .header_proaccount button.btn.btn-link.active {
+    color: #2fb5d2;
+    text-decoration: inherit;
+}
+
+input[name="proaccount_fileUpload"] {
+    font-size: .875rem;
+}

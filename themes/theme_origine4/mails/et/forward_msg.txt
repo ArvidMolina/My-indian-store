@@ -1,0 +1,15 @@
+{shop_url}
+
+Tervist {firstname} {lastname},
+
+Klienditugi - Suhtlus on edastatud
+
+{employee} tahtis selle vestluse Teile edastada.
+
+Vestluse ajalugu: {messages}
+
+{employee} lisas kommentaari {comment}
+
+[{shop_name}]({shop_url})
+
+Powered by [PrestaShop](https://www.prestashop.com/?utm_source=marchandprestashop&utm_medium=e-mail=utm_campaign=footer_1-7)

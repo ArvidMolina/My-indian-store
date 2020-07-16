@@ -1,0 +1,5 @@
+Security Notification:
+
+Some files has changed on your server. See the full path to the files below:
+
+{email}

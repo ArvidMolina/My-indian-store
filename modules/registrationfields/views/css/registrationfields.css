@@ -1,0 +1,28 @@
+/*
+* Registration Fields
+*
+* NOTICE OF LICENSE
+*
+* You are not authorized to modify, copy or redistribute this file.
+* Permissions are reserved by FMM Modules.
+*
+*  @author    FMM Modules
+*  @copyright 2018 FMM Module All right reserved
+*  @license   FMM Modules
+*  @package   Registration Fields
+*/
+
+.image_container {
+    border: 1px solid #d4d4d4;
+    cursor: pointer;
+    max-width: 100%;
+}
+.image_input, .extension_error, .image_container + .uploader {
+    display: none;
+}
+.extension_error {
+    margin-top: 10px;
+}
+.type_multiboxes {
+    text-align: left;
+}

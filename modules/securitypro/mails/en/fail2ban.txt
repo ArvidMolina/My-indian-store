@@ -1,0 +1,6 @@
+Security Warning:
+
+There was an unsuccessfully attempt to login. If this was not you, consider to change the name of your admin folder.
+
+E-mail: {email}
+IP: {ip}

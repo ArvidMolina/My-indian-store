@@ -1,0 +1,453 @@
+<pos_static_blocks>
+<!-- static block configuration -->
+	<block>
+		<id_posstaticblock>1</id_posstaticblock>
+		<identify>staticblock_phone</identify>
+		<hook_position>displayTop</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>2</id_posstaticblock>
+		<identify>staticblock1_home4</identify>
+		<hook_position>displayTopColumn</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>3</id_posstaticblock>
+		<identify>staticblock2_home4</identify>
+		<hook_position>displayBlockPosition1</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>4</id_posstaticblock>
+		<identify>left_staticblock1</identify>
+		<hook_position>displayBlockPosition7</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>5</id_posstaticblock>
+		<identify>left_staticblock2</identify>
+		<hook_position>displayBlockPosition6</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>6</id_posstaticblock>
+		<identify>staticblock3_home4</identify>
+		<hook_position>displayBlockPosition5</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+	<block>
+		<id_posstaticblock>7</id_posstaticblock>
+		<identify>staticblock_right</identify>
+		<hook_position>displayBlockPosition4</hook_position>
+		<name_module></name_module>
+		<hook_module>0</hook_module>
+		<posorder>0</posorder>
+		<insert_module>0</insert_module>
+		<active>0</active>
+		<showhook>1</showhook>
+	</block>
+
+<!-- block lang configuration -->
+	<block_lang>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Staticblock Phone</title>
+		<description>
+			 <![CDATA[
+				<div id="_desktop_phone">
+				<div class="phone">
+				<p><span>Call us</span> Free Support:123 456 789</p>
+				</div>
+				</div>
+			 ]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>2</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Staticblock1 Home4</title>
+		<description>
+			 <![CDATA[
+				<div class="static1_home4">
+				<div class="container">
+				<div class="banner-static-inner">
+				<div class="col col1">
+				<div class="banner-icon"><img src="/pos_origine/img/cms/icon-home4.png" alt="icon" /></div>
+				<div class="banner-content">
+				<h2>Free Delivery</h2>
+				<p>For all oders over $99</p>
+				</div>
+				</div>
+				<div class="col col2">
+				<div class="banner-icon"><img src="/pos_origine/img/cms/icon1-home4.png" alt="icon1" /></div>
+				<div class="banner-content">
+				<h2>30 Days Return</h2>
+				<p>If goods have problems</p>
+				</div>
+				</div>
+				<div class="col col3">
+				<div class="banner-icon"><img src="/pos_origine/img/cms/icon2-home4.png" alt="icon2" /></div>
+				<div class="banner-content">
+				<h2>24/7 Support</h2>
+				<p>Dedicated support</p>
+				</div>
+				</div>
+				<div class="col col4">
+				<div class="banner-icon"><img src="/pos_origine/img/cms/icon3-home4.png" alt="icon3" /></div>
+				<div class="banner-content">
+				<h2>Safe Payment</h2>
+				<p>100% safety system</p>
+				</div>
+				</div>
+				<div class="col col5">
+				<div class="banner-icon"><img src="/pos_origine/img/cms/icon4-home4.png" alt="icon4" /></div>
+				<div class="banner-content">
+				<h2>Member Discount</h2>
+				<p>For all oders over $29</p>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+			 ]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Staticblock2 Home4</title>
+		<description>
+			 <![CDATA[
+				<div class="static2_home4">
+				<div class="container">
+				<div class="row">
+				<div class="col col-md-4 col-sm-12 col-xs-12">
+				<div class="banner-box"><a href="#"><img src="/pos_origine/img/cms/img1_home4.jpg" alt="banner" class="img-responsive" /></a></div>
+				</div>
+				<div class="col col-md-4 col-sm-12 col-xs-12">
+				<div class="banner-box"><a href="#"><img src="/pos_origine/img/cms/img2_home4.jpg" alt="banner" class="img-responsive" /></a></div>
+				</div>
+				<div class="col col-md-4 col-sm-12 col-xs-12">
+				<div class="banner-box"><a href="#"><img src="/pos_origine/img/cms/img3_home4.jpg" alt="banner" class="img-responsive" /></a></div>
+				</div>
+				</div>
+				</div>
+				</div>
+			 ]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>4</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Left staticblock1</title>
+		<description>
+			 <![CDATA[
+				<div class="left1_static"><img src="/pos_origine/img/cms/img_lef.jpg" alt="banner" class="img-responsive" /></div>
+			 ]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>5</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Left staticblock2</title>
+		<description>
+			 <![CDATA[
+				<div class="left1_static"><img src="/pos_origine/img/cms/img_lef1.jpg" alt="banner" class="img-responsive" /></div>
+			 ]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>6</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Staticblock3 home4</title>
+		<description>
+			 <![CDATA[
+				<div class="static3_home4">
+				<div class="row">
+				<div class="box1 col  col-sm-12 col-xs-12">
+				<div class="banner-box"><img src="/pos_origine/img/cms/img4_home4.jpg" alt="banner" class="img-responsive" /></div>
+				</div>
+				<div class="box2 col  col-sm-12 col-xs-12">
+				<div class="banner-box"><img src="/pos_origine/img/cms/img5_home4.jpg" alt="banner" class="img-responsive" /></div>
+				</div>
+				<div class="box3 col col-sm-12 col-xs-12">
+				<div class="banner-box"><img src="/pos_origine/img/cms/img6_home4.jpg" alt="banner" class="img-responsive" /></div>
+				</div>
+				</div>
+				</div>
+			 ]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>7</id_posstaticblock>
+		<id_lang>1</id_lang>
+		<title>Staticblock right</title>
+		<description>
+			 <![CDATA[
+				<div class="box2 col col-lg-6 col-md-12 col-sm-12 col-xs-12">
+				<div class="home-shop">
+				<div class="pos_title">
+				<h2>Our Agence</h2>
+				</div>
+				<div class="shop-container">
+				<div class="row">
+				<div class="col-md-6 col-sm-6 col-sms-12">
+				<div class="col col1">
+				<div class="shop-image"><a href="#"><img src="/pos_origine/img/cms/img7_home4.jpg" alt="banner" class="img-responsive" /></a></div>
+				<div class="shop-content">
+				<p class="address-shop"><span>Address:</span>No2C, Ullenhall, Henley in Arden B578 5C, USA.</p>
+				<p class="phone-shop"><span>Number Phone:</span>(+800) 123 456 789</p>
+				<p class="fax-shop"><span>Number Fax:</span>(+800) 123 456 789</p>
+				</div>
+				</div>
+				</div>
+				<div class="col-md-6 col-sm-6 col-sms-12">
+				<div class="col col2">
+				<div class="shop-image"><a href="#"><img src="/pos_origine/img/cms/img8_home4.jpg" alt="banner" class="img-responsive" /></a></div>
+				<div class="shop-content">
+				<p class="address-shop"><span>Address:</span>NoT37, Ullenhall, Henley in Arden B578 5C, USA.</p>
+				<p class="phone-shop"><span>Number Phone:</span>(+800) 336 466 789</p>
+				<p class="fax-shop"><span>Number Fax:</span>(+800) 224 444 789</p>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+			 ]]>
+		</description>
+	</block_lang>
+	
+	<block_lang>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Staticblock Phone</title>
+		<description>
+			 <![CDATA[
+				<div id="_desktop_phone">
+				<div class="phone">
+				<p><span>Call us</span> Free Support:123 456 789</p>
+				</div>
+				</div>
+			 ]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>2</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Staticblock1 Home4</title>
+		<description>
+			 <![CDATA[
+				<div class="static1_home4">
+				<div class="container">
+				<div class="banner-static-inner">
+				<div class="col col1">
+				<div class="banner-icon"><img src="/pos_origine/img/cms/icon-home4.png" alt="icon" /></div>
+				<div class="banner-content">
+				<h2>Free Delivery</h2>
+				<p>For all oders over $99</p>
+				</div>
+				</div>
+				<div class="col col2">
+				<div class="banner-icon"><img src="/pos_origine/img/cms/icon1-home4.png" alt="icon1" /></div>
+				<div class="banner-content">
+				<h2>30 Days Return</h2>
+				<p>If goods have problems</p>
+				</div>
+				</div>
+				<div class="col col3">
+				<div class="banner-icon"><img src="/pos_origine/img/cms/icon2-home4.png" alt="icon2" /></div>
+				<div class="banner-content">
+				<h2>24/7 Support</h2>
+				<p>Dedicated support</p>
+				</div>
+				</div>
+				<div class="col col4">
+				<div class="banner-icon"><img src="/pos_origine/img/cms/icon3-home4.png" alt="icon3" /></div>
+				<div class="banner-content">
+				<h2>Safe Payment</h2>
+				<p>100% safety system</p>
+				</div>
+				</div>
+				<div class="col col5">
+				<div class="banner-icon"><img src="/pos_origine/img/cms/icon4-home4.png" alt="icon4" /></div>
+				<div class="banner-content">
+				<h2>Member Discount</h2>
+				<p>For all oders over $29</p>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+			 ]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Staticblock2 Home4</title>
+		<description>
+			 <![CDATA[
+				<div class="static2_home4">
+				<div class="container">
+				<div class="row">
+				<div class="col col-md-4 col-sm-12 col-xs-12">
+				<div class="banner-box"><a href="#"><img src="/pos_origine/img/cms/img1_home4.jpg" alt="banner" class="img-responsive" /></a></div>
+				</div>
+				<div class="col col-md-4 col-sm-12 col-xs-12">
+				<div class="banner-box"><a href="#"><img src="/pos_origine/img/cms/img2_home4.jpg" alt="banner" class="img-responsive" /></a></div>
+				</div>
+				<div class="col col-md-4 col-sm-12 col-xs-12">
+				<div class="banner-box"><a href="#"><img src="/pos_origine/img/cms/img3_home4.jpg" alt="banner" class="img-responsive" /></a></div>
+				</div>
+				</div>
+				</div>
+				</div>
+			 ]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>4</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Left staticblock1</title>
+		<description>
+			 <![CDATA[
+				<div class="left1_static"><img src="/pos_origine/img/cms/img_lef.jpg" alt="banner" class="img-responsive" /></div>
+			 ]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>5</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Left staticblock2</title>
+		<description>
+			 <![CDATA[
+				<div class="left1_static"><img src="/pos_origine/img/cms/img_lef1.jpg" alt="banner" class="img-responsive" /></div>
+			 ]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>6</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Staticblock3 home4</title>
+		<description>
+			 <![CDATA[
+				<div class="static3_home4">
+				<div class="row">
+				<div class="box1 col  col-sm-12 col-xs-12">
+				<div class="banner-box"><img src="/pos_origine/img/cms/img4_home4.jpg" alt="banner" class="img-responsive" /></div>
+				</div>
+				<div class="box2 col  col-sm-12 col-xs-12">
+				<div class="banner-box"><img src="/pos_origine/img/cms/img5_home4.jpg" alt="banner" class="img-responsive" /></div>
+				</div>
+				<div class="box3 col col-sm-12 col-xs-12">
+				<div class="banner-box"><img src="/pos_origine/img/cms/img6_home4.jpg" alt="banner" class="img-responsive" /></div>
+				</div>
+				</div>
+				</div>
+			 ]]>
+		</description>
+	</block_lang>
+	<block_lang>
+		<id_posstaticblock>7</id_posstaticblock>
+		<id_lang>2</id_lang>
+		<title>Staticblock right</title>
+		<description>
+			 <![CDATA[
+				<div class="box2 col col-lg-6 col-md-12 col-sm-12 col-xs-12">
+				<div class="home-shop">
+				<div class="pos_title">
+				<h2>Our Agence</h2>
+				</div>
+				<div class="shop-container">
+				<div class="row">
+				<div class="col-md-6 col-sm-6 col-sms-12">
+				<div class="col col1">
+				<div class="shop-image"><a href="#"><img src="/pos_origine/img/cms/img7_home4.jpg" alt="banner" class="img-responsive" /></a></div>
+				<div class="shop-content">
+				<p class="address-shop"><span>Address:</span>No2C, Ullenhall, Henley in Arden B578 5C, USA.</p>
+				<p class="phone-shop"><span>Number Phone:</span>(+800) 123 456 789</p>
+				<p class="fax-shop"><span>Number Fax:</span>(+800) 123 456 789</p>
+				</div>
+				</div>
+				</div>
+				<div class="col-md-6 col-sm-6 col-sms-12">
+				<div class="col col2">
+				<div class="shop-image"><a href="#"><img src="/pos_origine/img/cms/img8_home4.jpg" alt="banner" class="img-responsive" /></a></div>
+				<div class="shop-content">
+				<p class="address-shop"><span>Address:</span>NoT37, Ullenhall, Henley in Arden B578 5C, USA.</p>
+				<p class="phone-shop"><span>Number Phone:</span>(+800) 336 466 789</p>
+				<p class="fax-shop"><span>Number Fax:</span>(+800) 224 444 789</p>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+				</div>
+			 ]]>
+		</description>
+	</block_lang>
+	
+<!-- block shop configuration -->
+	<block_shop>
+		<id_posstaticblock>1</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>2</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>3</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>4</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>5</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>6</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+	<block_shop>
+		<id_posstaticblock>7</id_posstaticblock>
+		<id_shop>1</id_shop>
+	</block_shop>
+</pos_static_blocks>

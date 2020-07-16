@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>registrationfields</name>
+    <displayName><![CDATA[Campi di registrazione]]></displayName>
+    <version><![CDATA[1.6.0]]></version>
+    <description><![CDATA[Questo modulo consente di aggiungere campi personalizzati nel modulo di registrazione dei clienti. ]]></description>
+    <author><![CDATA[FMM Modules]]></author>
+    <tab><![CDATA[front_office_features]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>1</need_instance>
+	<limited_countries></limited_countries>
+</module>
